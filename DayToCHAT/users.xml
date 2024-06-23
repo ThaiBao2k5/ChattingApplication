@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<users>
+        
+    <user>
+                
+        <email>aaa@gmail.com</email>
+                
+        <username>Kosshi</username>
+                
+        <password>nguyen123</password>
+            
+    </user>
+    
+    <user>
+        <email>nguyentm.23da@gmail.com</email>
+        <username>Kosshi</username>
+        <password>minhnguyen123</password>
+    </user>
+</users>
